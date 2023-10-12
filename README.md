@@ -31,15 +31,14 @@ Users should be able to:
 - **Bonus**: Drag and drop to reorder items on the list
 
 ### Screenshot
-
-![](./screenshot.jpg)
+<img width="1286" alt="Screenshot 2023-10-12 at 15 43 47" src="https://github.com/SamuelWoniowei/todoList/assets/18232000/e4dd0e93-2e2b-43e9-92c9-b80270f0b472">
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/SamuelWoniowei/todoList](https://github.com/SamuelWoniowei/todoList)
+- Live Site URL: [Live site](https://your-live-site-url.com)
 
 ### Built with
 
