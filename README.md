@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/SamuelWoniowei/todoList](https://github.com/SamuelWoniowei/todoList)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Live Site URL: [Live site](https://fancytodolist.netlify.app)
 
 ### Built with
 
