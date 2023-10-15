@@ -31,7 +31,8 @@ Users should be able to:
 - **Bonus**: Drag and drop to reorder items on the list
 
 ### Screenshot
-<img width="1286" alt="Screenshot 2023-10-12 at 15 43 47" src="https://github.com/SamuelWoniowei/todoList/assets/18232000/e4dd0e93-2e2b-43e9-92c9-b80270f0b472">
+![Screenshot 2023-10-15 at 19 11 50](https://github.com/SamuelWoniowei/todoList/assets/18232000/cb25dde6-3ca9-407a-8307-de1cae959ca8)
+
 
 
 
