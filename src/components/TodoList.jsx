@@ -1,8 +1,8 @@
 import { useEffect, useState } from "react";
 import ListItem from "./ListItem";
-import Circle from "../assets/Circle";
-import Sun from "../assets/Sun";
-import Moon from "../assets/Moon";
+import Circle from "../../assets/Circle";
+import Sun from "../../assets/Sun";
+import Moon from "../../assets/Moon";
 import { v4 as uuidv4 } from "uuid";
 import { useDarkMode } from "./DarkModeContext";
 

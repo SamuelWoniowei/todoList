@@ -1,7 +1,7 @@
 /* eslint-disable react/prop-types */
-import Circle from "../assets/Circle";
-import Cancel from "../assets/Cancel";
-import CheckedCircle from "../assets/CheckedCirlce";
+import Circle from "../../assets/Circle";
+import Cancel from "../../assets/Cancel";
+import CheckedCircle from "../../assets/CheckedCirlce";
 import { useDarkMode } from "./DarkModeContext";
 export default function ListItem({ item, onUpdateStatus, onDeleteItem }) {
   const handleItemClick = () => {

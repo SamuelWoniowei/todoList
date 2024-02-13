@@ -9,9 +9,9 @@ function App() {
       <div className={` h-screen relative bg-white dark:bg-darkBackground  font-josefin`}>
         <div>
           {darkMode ? (
-            <img src="/src/assets/bg-desktop-dark.jpg" alt="dark mode background" className="h-64 lg:h-full"  />
+            <img src="./assets/bg-desktop-dark.jpg" alt="dark mode background" className="h-64 lg:h-full"  />
           ) : (
-            <img src="/src/assets/bg-desktop-light.jpg" alt="light mode background" className="h-64 lg:h-full"  />
+            <img src="./assets/bg-desktop-light.jpg" alt="light mode background" className="h-64 lg:h-full"  />
           )}
         </div>
         <div className="flex justify-center">
